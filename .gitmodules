@@ -1,0 +1,3 @@
+[submodule "human-webui"]
+	path = human-webui
+	url = git@github.com:TheLukaDragar/human-webui.git
