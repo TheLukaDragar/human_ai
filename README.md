@@ -13,7 +13,7 @@ Instructions for setting up and running the project will be added here.
 - pip install uv 
 - python -m venv open-webui-venv
 - source open-webui-venv/bin/activate
-- uv pip install -r requirements.txt -U
+- pip install -r requirements.txt -U
 - ./dev.sh
 
 # frontend dev setup
